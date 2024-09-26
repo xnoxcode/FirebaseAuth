@@ -7,13 +7,13 @@ incluye Jetpack Compose, Clean Arquitecture, MVVM e Inyección de dependencias.
 
 * Tipos de inicio de sesión o registro de usuario
 
-- Usuario y contraseña
-- Cuenta de Google
+  - Usuario y contraseña
+  - Cuenta de Google
 
 * Guardado y edición de la información de usuario
 
-- Nombre de usuario, descripción y url de la foto de perfil desde Firebase Firestore
-- Foto de perfil de usuario desde Firebase Storage
+  - Nombre de usuario, descripción y url de la foto de perfil desde Firebase Firestore
+  - Foto de perfil de usuario desde Firebase Storage
 
 * Cierre de sesión
 * Eliminación de cuenta
